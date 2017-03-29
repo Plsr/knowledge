@@ -27,9 +27,7 @@ a {
 ```
 
 A good rule of thumb is to **never use `!important`**.  
-There are some exceptions where `!important` can be overridden:
 
-  
 There are some exceptions where `!important` can be overridden:
 
 1. When a second `!important` statement is placed later in the code 
@@ -73,5 +71,5 @@ Rank | Origin | Importance
 (A higher rank means higher priority)
 
 #### Further Reading
-* [](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-* [](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+* [https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
