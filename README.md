@@ -5,3 +5,4 @@ Every resource contains of a link and a short tldr;
 ## Table of Contents
 1. [JavaScript](https://github.com/Plsr/resources/blob/master/JavaScript/JavaScript.md)
 2. [CSS](https://github.com/Plsr/resources/blob/master/CSS/CSS.md)
+3. [Git](https://github.com/Plsr/resources/blob/master/Git/git.md)
