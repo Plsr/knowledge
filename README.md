@@ -7,3 +7,4 @@ Every resource contains of a link and a short tldr;
     1. [ReactJS](https://github.com/Plsr/resources/blob/master/JavaScript/ReactJS.md)
 2. [CSS](https://github.com/Plsr/resources/blob/master/CSS/CSS.md)
 3. [Git](https://github.com/Plsr/resources/blob/master/Git/git.md)
+4. [Business](https://github.com/Plsr/resources/tree/master/business)
