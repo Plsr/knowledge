@@ -15,3 +15,11 @@ A practical approach here might be to calculate the duration of tasks as short a
 * [Wikipedia Entry](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 * [How to Use Parkinson's Law to Your Advantage](http://www.lifehack.org/articles/featured/how-to-use-parkinsons-law-to-your-advantage.html)
 * [The 4 Hour work week](https://www.amazon.de/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/ref=sr_1_sc_1?ie=UTF8&qid=1517158086&sr=8-1-spell&keywords=4+hour+workwwek) - by Tim Ferriss
+
+## The 80/20 Rule
+The 80/20 Rule can be applied to almost everything in live and is very flexible in implementation. Some examples include:
+* 20% of the work produce 80% of the outcome
+* 20% of the events produce 80% of the stress
+* 20% of the customers produce 80% of the revenue
+
+Generally, its good to identify the 20s and 80s in a System and then adapt to that (by cutting out unperformatn factors that are not in the 20%)
