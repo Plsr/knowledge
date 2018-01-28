@@ -3,8 +3,8 @@ The following is a list of concepts that are somewhat related to either business
 there is not enough content in this document to justify splitting it in business and productivity
 
 ## Contents
-* [Parkinson's Law](#parkinson's-law)
-* [80/20 Rule](#80-/-20-rule)
+* [Parkinson's Law](#parkinsons-law)
+* [80/20 Rule](#the-8020-rule)
 
 ## Parkinson's Law
 > work expands so as to fill the time available for its completion
