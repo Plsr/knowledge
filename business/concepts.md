@@ -24,3 +24,6 @@ The 80/20 Rule can be applied to almost everything in live and is very flexible 
 * 20% of the customers produce 80% of the revenue
 
 Generally, its good to identify the 20s and 80s in a System and then adapt to that (by cutting out unperformatn factors that are not in the 20%)
+
+#### Resources and Material
+* [Wikipedia Entry](https://en.wikipedia.org/wiki/Pareto_principle)
