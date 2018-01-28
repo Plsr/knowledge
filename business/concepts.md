@@ -4,6 +4,7 @@ there is not enough content in this document to justify splitting it in business
 
 ## Contents
 * [Parkinson's Law](#parkinson's-law)
+* [80/20 Rule](#80-/-20-rule)
 
 ## Parkinson's Law
 > work expands so as to fill the time available for its completion
