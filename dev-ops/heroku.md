@@ -2,8 +2,8 @@
 This living document provides a list of useful snippets reagarding working with [Heroku](heroku.com) as well as so guidance for problems I faced myself and and want to be able to solve faster the next time I encounter them.
 
 ## Content
-* [Basic Resources]()
-* [Situations]()
+* [Basic Resources](#basic-resources)
+* [Situations](#situations)
 
 ## Basic Resources
 * **[Heroku DevCenter](https://devcenter.heroku.com/categories/reference)** The Heroku DevCenter provides guidance to basically everything that can be done with Heroku.
