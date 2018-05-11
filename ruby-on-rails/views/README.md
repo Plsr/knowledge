@@ -27,7 +27,7 @@ We can than pass an instance of that model to `form_for`, which will yield a
 form builder object (passed to the block as `f` in the example below) which will
 handle a lot of work for us.
 
-```haml
+```ruby
 = form_for @article, url: {action: "create"} do |f|
   = f.text_field :title
   = f.text_field :content
@@ -36,7 +36,7 @@ handle a lot of work for us.
 
 If we had defined artilces as a resouce in our routes, we could even use
 
-```haml
+```ruby
 = form_for @article do |f|
   = f.text_field :title
   = f.text_field :content
