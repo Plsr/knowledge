@@ -3,12 +3,7 @@
 Things regarding the input and output in a rials application.
 
 ## Table of Contents
-
-## Improting CSV Files
-
-Rails has a lot of support built on for handling CSV (both, in- and output),
-have a look at the [CSV
-Class](https://ruby-doc.org/stdlib-2.0.0/libdoc/csv/rdoc/CSV.html)
+* [Importing CSV Files](#importing-csv-files)
 
 ## Importing CSV Files
 
