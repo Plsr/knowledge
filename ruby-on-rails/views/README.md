@@ -1,4 +1,13 @@
-# Default values for partial locals
+# Views
+Everything that is remotely connected to views in a Rails application.
+
+## Table of Contents
+* [Partials](#partials)
+    * [Default values for partial locals](#default-values-for-parial-locals)
+
+## Partials
+
+### Default values for partial locals
 
 First things first: I feel like setting default values for locals in partials
 should not be happening in any production application. I think this kind of logic does
