@@ -1,4 +1,4 @@
 # Ruby on Rails
 
 * [Views](./views)
-* [File I/O](/file-io)
+* [File I/O](./file-io)
