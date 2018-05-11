@@ -2,8 +2,49 @@
 Everything that is remotely connected to views in a Rails application.
 
 ## Table of Contents
+* [Forms](#forms)
+  * [Form Basics](#form-basics)
 * [Partials](#partials)
     * [Default values for partial locals](#default-values-for-parial-locals)
+
+## Forms
+
+### Form basics
+
+Generating basic forms be done with the `form_tag`, however, this will lead to a
+lot of manual work that rails can handle. Should you be in a situation where
+you cannot use the form builder and need to build a form by hand, railsgiudes
+[has you
+covered](http://guides.rubyonrails.org/form_helpers.html#dealing-with-basic-forms).  
+The following will handle the creation of forms with the form builder.
+
+Often times when working on a rails application and dealing with forms, chances
+are you want to modify or create a resoucrce (in the 'new' and 'edit' view for
+example). To make that easier, we can make use of the form builder, by using
+`form_for` to generate our form.  
+Let's assume we have an `Article` model that has fields for a title and content.
+We can than pass an instance of that model to `form_for`, which will yield a
+form builder object (passed to the block as `f` in the example below) which will
+handle a lot of work for us.
+
+```haml
+= form_for @article, url: {action: "create"} do |f|
+  = f.text_field :title
+  = f.text_field :content
+  = f.submit "Create"
+  ```
+
+If we had defined artilces as a resouce in our routes, we could even use
+
+```haml
+= form_for @article do |f|
+  = f.text_field :title
+  = f.text_field :content
+  = f.submit "Create"
+  ```
+
+and rails will figure out if we are generating a new record or modifying an
+exiting.
 
 ## Partials
 
