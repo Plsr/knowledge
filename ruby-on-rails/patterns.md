@@ -34,10 +34,8 @@ class Controller
 ```
 
 __Further Reading__  
-* [Rails redirect_to
-  documentation](https://api.rubyonrails.org/classes/ActionController/Redirecting.html#method-i-redirect_to)
-* [preformed?
-  documentation](https://apidock.com/rails/ActionController/Metal/performed%3F)
+* [Rails redirect_to documentation](https://api.rubyonrails.org/classes/ActionController/Redirecting.html#method-i-redirect_to)
+* [preformed? documentation](https://apidock.com/rails/ActionController/Metal/performed%3F)
 
 ## Memoization
 The basic idea here is to cache results of methods to that these methods do not
