@@ -5,5 +5,8 @@ Things gives me a lower level view of next actions I can take. Trello is giving 
 
 I also try to use a GTD like approach whil using things. Usually, everything I have on my mind starts here as a task in my inbox, because I always have a device with me that has access to things.
 
+## Keyboard Shortcuts
+* `CTRL + <Assigned Key>` - Add a Tag to a task (Tag has to be given a shortcut in the Tag window first)
+
 ## Useful links
-* [Things 3 Keyboard Shortcuts](https://support.culturedcode.com/customer/en/portal/articles/2785159-keyboard-shortcuts-for-mac)
+* [Full list of Things 3 Keyboard Shortcuts](https://support.culturedcode.com/customer/en/portal/articles/2785159-keyboard-shortcuts-for-mac)
