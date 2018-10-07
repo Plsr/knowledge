@@ -49,7 +49,7 @@ class Article < ActiveRecord::Base
   end
 end
 ```
-*Obviously, this example is very cunstructed and just used to display the
+*Obviously, this example is very constructed and just used to display the
 syntax*
 
 __Further Reading__  
