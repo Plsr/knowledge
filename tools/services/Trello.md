@@ -4,4 +4,4 @@ Trello is a digital implementation of a kanban baord. Well, it can be. It can al
 
 ## Shortcuts
 * `Q` - Only show cards assigned to you
-* `CTLR + <Assigned Key>` - Add a Tag to a task (Tag has to be given a shortcut in the Tag window first)
+* `CTRL + <Assigned Key>` - Add a Tag to a task (Tag has to be given a shortcut in the Tag window first)
