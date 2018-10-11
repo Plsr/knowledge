@@ -1,12 +1,8 @@
-# Resources
-This repository aims to be a list of resources I learned things from, sorted by topic.  
-Every resource contains of a link and a short tldr;
+# ⚡️ Knowledge
 
-## Table of Contents
-1. [JavaScript](https://github.com/Plsr/resources/blob/master/JavaScript/JavaScript.md)
-    1. [ReactJS](https://github.com/Plsr/resources/blob/master/JavaScript/ReactJS.md)
-2. [Ruby on Rails](./ruby-on-rails)
-3. [CSS](https://github.com/Plsr/resources/blob/master/CSS/CSS.md)
-4. [Git](https://github.com/Plsr/resources/blob/master/Git/git.md)
-5. [Dev Ops](https://github.com/Plsr/resources/tree/master/dev-ops)
-6. [Business](https://github.com/Plsr/resources/tree/master/business)
+> A growing repository of everything I learned
+
+_Note: If you are looking at this in GitHub, I suggest you head over to [[](wiki.christianpoplawski.de)](https://wiki.christianpoplawski.de) as it is a much more pleasent browsing experience._
+
+## What topics are in here?
+Pretty much everything. I started this as a repository of quick notes of learning I had while programming. A while ago, I stumble over [Nikita's wiki](https://wiki.nikitavoloboev.xyz) and decided to go all in. Since then, this is a place for pretty much everything I learned, independent from its general area.
