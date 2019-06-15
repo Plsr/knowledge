@@ -17,3 +17,5 @@ likely places of origin:
 * Beautiful choices—like physical fitness or perfect skin—are rarely as effortless as they seem. No, there is a regimen behind them. It takes exercise, it takes discipline, it takes sacrifice.
 * Don’t let your happiness depend on something you may lose.
 * “Whenever you do something you have decided ought be done, never try to avoid being seen doing it, even if people in general may disapprove of it. If, of course, your action is wrong, just don’t do it at all, but if it’s right, why be afraid of people whose criticism is off the mark?”
+* Talk less, listen more
+* Whish for the hard things to happen instead of fearing them, for those things help you lern and grow. They are opportunities, not punishments.
