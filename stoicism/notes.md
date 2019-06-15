@@ -7,7 +7,7 @@ likely places of origin:
 * Somehwere form [r/soticism](https://www.reddit.com/r/Stoicism/)
 * From the book "The Daily Sotic"
 
------
+## The actual notes
 
 * Is the voice in your head getting nicer? Are you more still? Are you practicing good self-care? That’s what progress looks like. That’s what you deserve as a human being—and as a friend.
 * Do Less, better. Stop trying to do everything, just do what is essential. It will make you calmer and also bring the satisfaction of doing the essential things with more care, better.
